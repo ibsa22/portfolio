@@ -1,19 +1,15 @@
 <h1 align="center">
 Welcome to My Personal Portfolio profile! 
 </h1>
-<h3>
-<table>
-- 👋 Hi, I’m @ibsa
-- 👀 I’m interested in Coding 
-- 🌱 I’m currently learning at School of Code National Bootcamp Programme 2021/22
-- 💞️ I’m looking to collaborate on any Volunteering | Internship | Job opportunities 
-- 📫 How to reach me: Email me@ ibsa22@gmail.com 
-</h3>
+<h4>
+<p>- 👋 Hi, I’m @ibsa</p>
+<p>- 👀 I’m interested in Coding</p> 
+<p>- 🌱 I’m currently learning at School of Code National Bootcamp Programme 2021/22</p>
+<p>- 💞️ I’m looking to collaborate on any Volunteering | Internship | Job opportunities</p>
+<address> 📫 How to reach me <a href="mailto:ibsa22@gmail.com">EMAIL</a>.<br>
+</address>
+</h4>
 
-<h1 align="center">
-    Welcome to My Personal Portfolio Github Page!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
-</h1>
 <h4 align="center">A developer passionate about technology</h4>
 <hr />
 
@@ -107,6 +103,6 @@ Welcome to My Personal Portfolio profile!
 <h2 align="center">🗠 Contribution Stats</h2>
 <div align="center">
     <img
-        src="https://activity-graph.herokuapp.com/graph?username=FourLineCode&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"
+        src="https://activity-graph.herokuapp.com/graph?username=ibsa22&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"
     />
 </div>
