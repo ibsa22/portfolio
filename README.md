@@ -80,21 +80,20 @@ Welcome to My Personal Portfolio Profile!
         </td>
     </tr>
 </table>
+
 <table>
   <tr>
-    <th>FRONTEND</th>
-    <th>BACKEND</th>
-    <th>OTHERS</th>
+    <th>LANGUAGES AND TOOLS I USED</th>
   </tr>
   <tr>
     <td>HTML & CSS</td>
     <td>JAVASCRIPT</td>
     <td>REACT</td>
-  </tr>
-  <tr>
     <td>NODE.JS</td>
     <td>EXPRESS.JS</td>
-    <td>DATABASES</td>
+    <td>SQL</td>
+    <td>POSTGRESQL</td>
+    <td>& OTHERS</td>
   </tr>
 </table>
 
