@@ -1,12 +1,12 @@
 <h1 align="center">
-Welcome to My Personal Portfolio profile! 
+Welcome to My Personal Portfolio Profile! 
 </h1>
 <h6>
 - 👋 Hi, I’m @ibsa<br>
 - 👀 I’m interested in Coding<br> 
-<p>- 🌱 I’m currently learning at School of Code National Bootcamp Programme 2021/22</p>
-<p>- 💞️ I’m looking to collaborate on any Volunteering | Internship | Job opportunities</p>
-<address> 📫 How to reach me <a href="mailto:ibsa22@gmail.com">EMAIL</a>.<br>
+- 🌱 I’m currently learning at School of Code National Bootcamp Programme 2021/22<br>
+- 💞️ I’m looking to collaborate on any Volunteering | Internship | Job opportunities<br>
+<address> 📫 How to reach me: <a href="mailto:ibsa22@gmail.com">EMAIL ME</a>.<br>
 </address>
 </h6>
 
@@ -79,6 +79,23 @@ Welcome to My Personal Portfolio profile!
             </a>
         </td>
     </tr>
+</table>
+<table>
+  <tr>
+    <th>FRONTEND</th>
+    <th>BACKEND</th>
+    <th>OTHERS</th>
+  </tr>
+  <tr>
+    <td>HTML & CSS</td>
+    <td>JAVASCRIPT</td>
+    <td>REACT</td>
+  </tr>
+  <tr>
+    <td>NODE.JS</td>
+    <td>EXPRESS.JS</td>
+    <td>DATABASES</td>
+  </tr>
 </table>
 
 <h2 align="center">👤 Profile Stats</h2>
