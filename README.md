@@ -81,22 +81,6 @@ Welcome to My Personal Portfolio Profile!
     </tr>
 </table>
 
-<table>
-  <tr>
-    <th>LANGUAGES AND TOOLS I USED</th>
-  </tr>
-  <tr>
-    <td>HTML & CSS</td>
-    <td>JAVASCRIPT</td>
-    <td>REACT</td>
-    <td>NODE.JS</td>
-    <td>EXPRESS.JS</td>
-    <td>SQL</td>
-    <td>POSTGRESQL</td>
-    <td>& OTHERS</td>
-  </tr>
-</table>
-
 <h2 align="center">👤 Profile Stats</h2>
 <div align="center">
     <img
@@ -106,9 +90,23 @@ Welcome to My Personal Portfolio Profile!
 
 <h2 align="center">📊 Most Used Languages</h2>
 <div align="center">
-    <img
+    
+<!-- <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibsa22&theme=dracula&langs_count=6&layout=compact&hide=css"
-    />
+    /> -->
+<table>
+  <tr>
+    <th>LANGUAGES AND TOOLS I USED</th>
+  </tr>
+  <tr> <td>HTML & CSS</td> </tr>
+  <tr> <td>JAVASCRIPT</td></tr>
+  <tr> <td>REACT</td></tr>
+  <tr> <td>NODE.JS</td></tr>
+  <tr> <td>EXPRESS.JS</td></tr>
+  <tr> <td>SQL</td></tr>
+  <tr> <td>POSTGRESQL</td></tr>
+  <tr> <td>& OTHERS</td></tr>
+</table>
 </div>
 
 <h2 align="center">🔥 Streak Stats</h2>
