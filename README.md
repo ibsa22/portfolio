@@ -1,14 +1,14 @@
 <h1 align="center">
 Welcome to My Personal Portfolio profile! 
 </h1>
-<h4>
-<p>- 👋 Hi, I’m @ibsa</p>
-<p>- 👀 I’m interested in Coding</p> 
+<h6>
+- 👋 Hi, I’m @ibsa<br>
+- 👀 I’m interested in Coding<br> 
 <p>- 🌱 I’m currently learning at School of Code National Bootcamp Programme 2021/22</p>
 <p>- 💞️ I’m looking to collaborate on any Volunteering | Internship | Job opportunities</p>
 <address> 📫 How to reach me <a href="mailto:ibsa22@gmail.com">EMAIL</a>.<br>
 </address>
-</h4>
+</h6>
 
 <h4 align="center">A developer passionate about technology</h4>
 <hr />
