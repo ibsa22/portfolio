@@ -4,7 +4,8 @@ Welcome to My Personal Portfolio Profile!
 <h6>
 - 👋 Hi, I’m @ibsa<br>
 - 👀 I’m interested in Coding<br> 
-- 🌱 I’m currently learning at School of Code National Bootcamp Programme 2021/22<br>
+- 👀 I was graduated from Northumbria University Postgraduate In Web and Mobile Development Technologies on 08/07/2022<br> 
+- 🌱 I’m a bootcamper at School of Code National Bootcamp Programme 2021/22 Cohort 9<br>
 - 💞️ I’m looking to collaborate on any Volunteering | Internship | Job opportunities<br>
 <address> 📫 How to reach me: <a href="mailto:ibsa22@gmail.com">EMAIL ME</a>.<br>
 </address>
@@ -105,6 +106,7 @@ Welcome to My Personal Portfolio Profile!
   <tr> <td>EXPRESS.JS</td></tr>
   <tr> <td>SQL</td></tr>
   <tr> <td>POSTGRESQL</td></tr>
+  <tr> <td>FLUTTER & DART</td></tr>
   <tr> <td>& OTHERS</td></tr>
 </table>
 </div>
